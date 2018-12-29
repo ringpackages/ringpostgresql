@@ -15,8 +15,8 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "codegen",
+			:version = "1.0",
 			:providerusername = ""
 		]
 	],
